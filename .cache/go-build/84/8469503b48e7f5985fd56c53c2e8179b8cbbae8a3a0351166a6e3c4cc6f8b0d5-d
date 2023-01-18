@@ -1,0 +1,4 @@
+./doc.go
+./procfs.go
+./procfs_fake.go
+./procfs_linux.go

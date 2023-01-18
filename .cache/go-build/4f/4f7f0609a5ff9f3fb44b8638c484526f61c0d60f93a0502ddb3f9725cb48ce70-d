@@ -1,0 +1,7 @@
+./checkpointmanager.go
+./checksum.go
+./filestore.go
+./filesystem.go
+./fs.go
+./object_cache.go
+./store.go

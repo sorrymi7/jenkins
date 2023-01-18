@@ -1,0 +1,4 @@
+./atomicfields.go
+./doc.go
+./refcount_mapped.go
+./sdk.go

@@ -1,0 +1,5 @@
+./client.go
+./fake_client.go
+./helpers.go
+./instrumented_client.go
+./kube_docker_client.go

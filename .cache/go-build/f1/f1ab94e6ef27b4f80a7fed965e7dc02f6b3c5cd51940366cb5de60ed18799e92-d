@@ -1,0 +1,7 @@
+./config.go
+./doc.go
+./instrumentkind_string.go
+./metric.go
+./metric_instrument.go
+./metric_noop.go
+./metric_sdkapi.go

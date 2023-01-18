@@ -1,0 +1,13 @@
+./attributesmap.go
+./batch_span_processor.go
+./config.go
+./doc.go
+./evictedqueue.go
+./id_generator.go
+./provider.go
+./sampling.go
+./simple_span_processor.go
+./span.go
+./span_exporter.go
+./span_processor.go
+./tracer.go

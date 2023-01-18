@@ -1,0 +1,13 @@
+./admission.go
+./buildmanagerinfo.go
+./capmanagers.go
+./fieldmanager.go
+./lastappliedmanager.go
+./lastappliedupdater.go
+./managedfieldsupdater.go
+./scalehandler.go
+./skipnonapplied.go
+./stripmeta.go
+./structuredmerge.go
+./typeconverter.go
+./versionconverter.go
