@@ -1,20 +1,20 @@
-apiVersion: v1
+apiVersion: v2
 kind: Pod
 metadata:
-  name: pod-v1
+  name: pod-v2
   labels:
-    app: v1
+    app: v2
 spec:
   containers:
   - name: container
-    image: kubetm/app:v1
+    image: kubetm/app:v2
 ---
-apiVersion: v1
+apiVersion: v2
 kind: Service
 metadata:
-  name: svc-v1
+  name: svc-v2
 spec:
   selector:
-    app: v1
+    app: v2
   ports:
   - port: 8080
