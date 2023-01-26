@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: pod-v1
+  name: pod-delivery
   labels:
     app: v1
 spec:
@@ -17,4 +17,4 @@ spec:
   selector:
     app: v1
   ports:
-  - port: 7777
+  - port: 8080
