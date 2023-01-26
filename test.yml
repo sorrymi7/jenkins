@@ -17,4 +17,4 @@ spec:
   selector:
     app: v1
   ports:
-  - port: 8080
+  - port: 7777
